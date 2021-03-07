@@ -1,0 +1,15 @@
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/Users/omarion111/Projects/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/Users/omarion111/Projects/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
